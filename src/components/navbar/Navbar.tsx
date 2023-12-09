@@ -67,7 +67,7 @@ function Navbar() {
         <>
         
             <nav
-                className={`bg-[#0e1623] bg-opacity-75 absolute left-0 top-0 z-[1035] h-full w-3/12  overflow-hidden shadow-[0_4px_12px_0_rgba(0,0,0,0.07),_0_2px_4px_rgba(0,0,0,0.05)] transition-all duration-200 `}
+                className={`bg-[#0e1623] bg-opacity-75 absolute left-0 top-0 z-[1035] h-full w-10/12  2xl:w-3/12 xl:w-3/12 lg:w-3/12 md:w-6/12 sm:w-10/12 xs:w-10/12 overflow-hidden shadow-[0_4px_12px_0_rgba(0,0,0,0.07),_0_2px_4px_rgba(0,0,0,0.05)] transition-all duration-200 `}
             >
                 <div className="w-full flex justify-center">
                     <img src={logo} className="w-6/12 mt-3"/>
