@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://api.weatherapi.com/v1/current.json?key=608c520298824683bba185537230712&';
+const BASE_URL = 'https://api.weatherapi.com/v1/current.json?key=608c520298824683bba185537230712&';
 
 const API = {
 
