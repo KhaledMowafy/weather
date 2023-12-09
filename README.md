@@ -1,6 +1,8 @@
 # Weather App
 This is a TypeScript React project that leverages the www.weatherapi.com API to provide weather and wind direction information for searched countries.
 
+Demo: https://sunny-jalebi-048893.netlify.app/
+
 ### Getting Started
 Prerequisites
 Node.js: Make sure you have Node.js installed on your machine.
